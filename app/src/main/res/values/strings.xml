@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Controller</string>
+    <string name="L_U">L \u0026 U</string>
+    <string name="R_U">R \u0026 U</string>
+    <string name="L_D">L \u0026 D</string>
+    <string name="R_D">R \u0026 D</string>
+</resources>
